@@ -210,7 +210,7 @@ img {
 /* ===== Hero Section ===== */
 .hero-section {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/image5.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/images/image5.jpg') center/cover no-repeat;
     display: flex;
     align-items: center;
     text-align: center;
